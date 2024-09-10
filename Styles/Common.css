@@ -1,0 +1,23 @@
+nav{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+.nav-item{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    padding-right: 10% ;
+    
+}
+.nav-item>div>a{
+    text-decoration: none;
+}
+.logo{
+    margin-left: 5%;
+    font-size: 25px;
+    font-weight: bold;
+}
